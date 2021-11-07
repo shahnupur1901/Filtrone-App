@@ -1,0 +1,18 @@
+{% extends 'headerPage.html' %}
+
+{% block content %}
+<p class = "info">Please enter the product image you wish to categorize.</p>
+<form action="submitImage" method="post" enctype="multipart/form-data" class="form">
+
+    {% csrf_token %}
+    <div class="imageSent">Upload here : </div>
+    <br>
+    <input class="file" name="filename" type="file">
+    <br>
+    <input class="button" type="submit" value="Submit">
+    <br>
+    <img src={{fileName}}>
+  
+
+</form>
+{% endblock %}

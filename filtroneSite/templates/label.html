@@ -1,0 +1,16 @@
+{% extends 'headerPage.html' %}
+
+{% block content %}
+<form action="submitFeedback" method="POST" enctype="multipart/form-data" class="form">
+
+    {% csrf_token %}
+    
+    <h3>The filters are : </h3>
+    <h2 class="label">{{Gender}} <br /> {{SubCategory}} <br />{{Color}}<br />{{ArticleType}}<br />{{Usage}}</h2>
+    <img src={{fileName}} class="img">
+    <br />
+    <button type="submit" value="submit" class="button">Next</button>
+
+
+</form>
+{% endblock %}

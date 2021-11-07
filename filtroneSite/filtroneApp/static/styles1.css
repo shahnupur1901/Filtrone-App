@@ -1,0 +1,56 @@
+.title{
+
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 3px 3px;
+  font-family:cursive;
+}
+.header{
+    display:block;
+    padding:0px;
+    margin:0;
+    background-color: #1DB954;
+    overflow:hidden
+}
+
+form {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.info{
+    color:white;
+    text-align: center;
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  
+  }
+  .button:hover {
+    background-color:black; /* Green */
+    color: white;
+    border: 1px solid white;
+  
+  }
+  .label{
+      color:white
+  }
+
+  .formcheck{
+    color:white
+  }

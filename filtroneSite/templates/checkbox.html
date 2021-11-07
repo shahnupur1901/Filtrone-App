@@ -1,0 +1,26 @@
+{% extends 'headerPage.html' %}
+
+{% block content %}
+<form action="submit" method="POST" enctype="multipart/form-data" class="form">
+
+    {% csrf_token %}
+    <div class="fdbk">
+        <h3>Please tell us if you enjoyed our App experience</h3>
+        <input type="radio" value="Yes" id="Yes" name="clickedOption">
+        <label for="Yes">Yes, I am satisfied!</label>
+        <br>
+        <br>
+        <input type="radio" value="No" id="No" name="clickedOption">
+        <label for="No">No, this is not what I wanted.</label>
+        <br>
+        <h3>Any suggestions?</h3>
+        <input type="text">
+        <br>
+        <button type="submit" value="submit" class="button">Submit</button>
+        <br>
+        <h3>{{message}}</h3>
+    </div>
+
+
+</form>
+{% endblock %}
