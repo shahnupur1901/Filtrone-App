@@ -2,7 +2,7 @@
 For Myntra Hackathon
 
 Video Drive Link :https://drive.google.com/drive/folders/1OFHx5us2bGQDYpoJvmoO8qBveIiWOpeF
-To check out the examples of the outputs of the model : go to Filtrone Model
+To check out the examples of the outputs of the model : go to FiltroneExamples.pdf
 
 Github code guide :
 The Deep Learning Models are in the DeepLearningModels folder with the Google Colab files attached.
