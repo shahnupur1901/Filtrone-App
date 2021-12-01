@@ -2,17 +2,22 @@
 
 This is an image classification model for a fashion dataset with new deep learning models as well as with pretrained models with transfer learning. These models provide filters on : Gender, Subcategory, Article type and color.
 
+
 Model Workflow :
 1. After user authentication, user is redirected to the app's main page where the image can be uploaded. 
-![Filtrone1](https://user-images.githubusercontent.com/67814929/144272905-f5ebfd86-5914-449e-b33d-6168f4334232.png)
 
-2. The deep learning models is used to predict the filters in the backend, and the resultant filters are printed here.
 ![Filtrone2](https://user-images.githubusercontent.com/67814929/144272922-8c30dedc-2487-4f54-a534-2f18dfc92f27.png)
 
+2. The deep learning models is used to predict the filters in the backend, and the resultant filters are printed here.
+
+![Filtrone1](https://user-images.githubusercontent.com/67814929/144272905-f5ebfd86-5914-449e-b33d-6168f4334232.png)
+
 3. Feedback page to record user satisfaction.
+
 ![Filtrone3](https://user-images.githubusercontent.com/67814929/144272936-9446ec20-7f94-483e-8a38-2e22ed35069a.png)
 
 4. Final page.
+
 ![Filtrone 4](https://user-images.githubusercontent.com/67814929/144272947-a81886c8-c402-4974-bc38-65bbf9c0cbcc.png)
 
 __________________________________________________________________________________________________________________________________________________________________
