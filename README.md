@@ -1,6 +1,5 @@
 # Filtrone-App
 
-Video Demonstration :https://drive.google.com/drive/folders/1OFHx5us2bGQDYpoJvmoO8qBveIiWOpeF
 To check out the examples of the outputs of the model : go to FiltroneExamples.pdf
 For information about the models : go to Model Information.pdf
 
