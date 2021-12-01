@@ -1,8 +1,8 @@
 # Filtrone-App
-![Filtrone1](https://user-images.githubusercontent.com/67814929/144270717-00e276f5-9294-47eb-9360-16b5a06469c6.png)
-![Filtrone2](https://user-images.githubusercontent.com/67814929/144271023-e14dfbe6-a8fe-48ca-91b3-1bf3eb707c16.png)
-![Filtrone3](https://user-images.githubusercontent.com/67814929/144271040-a3cb9c5c-c82c-4599-ac9b-ec1b59c4123e.png)
-![Filtrone 4](https://user-images.githubusercontent.com/67814929/144271062-9162f43f-2556-4e9b-9aac-03e90350c0f9.png)
+![Filtrone1](https://user-images.githubusercontent.com/67814929/144272905-f5ebfd86-5914-449e-b33d-6168f4334232.png)
+![Filtrone2](https://user-images.githubusercontent.com/67814929/144272922-8c30dedc-2487-4f54-a534-2f18dfc92f27.png)
+![Filtrone3](https://user-images.githubusercontent.com/67814929/144272936-9446ec20-7f94-483e-8a38-2e22ed35069a.png)
+![Filtrone 4](https://user-images.githubusercontent.com/67814929/144272947-a81886c8-c402-4974-bc38-65bbf9c0cbcc.png)
 To check out the examples of the outputs of the model : go to FiltroneExamples.pdf
 For information about the models : go to Model Information.pdf
 
