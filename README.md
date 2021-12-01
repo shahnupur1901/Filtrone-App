@@ -1,5 +1,8 @@
 # Filtrone-App
-
+![Filtrone1](https://user-images.githubusercontent.com/67814929/144270717-00e276f5-9294-47eb-9360-16b5a06469c6.png)
+![Filtrone2](https://user-images.githubusercontent.com/67814929/144271023-e14dfbe6-a8fe-48ca-91b3-1bf3eb707c16.png)
+![Filtrone3](https://user-images.githubusercontent.com/67814929/144271040-a3cb9c5c-c82c-4599-ac9b-ec1b59c4123e.png)
+![Filtrone 4](https://user-images.githubusercontent.com/67814929/144271062-9162f43f-2556-4e9b-9aac-03e90350c0f9.png)
 To check out the examples of the outputs of the model : go to FiltroneExamples.pdf
 For information about the models : go to Model Information.pdf
 
